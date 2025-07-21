@@ -1,10 +1,11 @@
-l,#!/bin/bash
+#!/bin/bash
 
 
 <<info 
 
 This shell script will
-take periodic backups
+take periodic backups and can also be used
+in cron
 
 info
 
